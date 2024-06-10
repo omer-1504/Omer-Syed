@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Omer</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
 <h3 align="center">Junior undergraduate with a passion for technology, eager to contribute to innovative projects. Proficient in java and with a working knowledge of data structures and algorithms, with strong communication and problem-solving abilities.</h3>
 
 - 💬 Ask me about **Java,Data Strutures**
